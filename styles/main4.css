@@ -1,0 +1,60 @@
+video {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 170px;
+    size: 500px;
+
+
+
+}
+
+a:hover {
+  color:yellow;}
+
+a.nounderline:link
+{
+text-decoration: none;
+color: black;
+
+}
+a {
+  font-family: verdana;
+  text-decoration: none;
+  color: black;
+}
+
+a {
+text-decoration: none;
+color: black;
+font-size:15px }
+
+
+.et1{
+  width: 20%;
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-left: -00px;
+}
+
+.cont{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+img{
+  width: 100%;
+}
+h1{
+font-family: 'Trocchi', serif;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  font-weight:bold;
+
+  margin-top: 50px;
+  margin-left: 100px;
+
+}
