@@ -1,0 +1,57 @@
+
+video {
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 170px;
+    size: 500px;
+
+}
+
+
+
+
+a:hover {
+  color:yellow;}
+
+a.nounderline:link
+{
+text-decoration: none;
+color: black;
+}
+a {
+  font-family: verdana;
+}
+
+a {
+text-decoration: none;
+color: black;
+font-size:15px }
+
+
+.et1{
+  width: 20%;
+  top: 0;
+  margin-left: 100px;
+
+}
+
+.cont{
+  width: 100%;
+  display: flex;
+  margin-top: 10%;
+  justify-content: center;
+  position: relative;
+}
+
+img{
+  width: 100%;
+}
+
+h1 .titre{
+font-family: 'Trocchi', serif;
+  margin-top: 5px;
+  font-weight: bold;
+  margin-top: 10px;
+  left: 10%;
+
+}
